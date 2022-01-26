@@ -15,7 +15,7 @@
 local.properties
 
 # Connection data with Firebase
-./app/google-services.json
+/app/google-services.json
 
 # Built application files
 *.apk
